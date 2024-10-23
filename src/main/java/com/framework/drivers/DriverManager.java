@@ -10,7 +10,6 @@ public class DriverManager {
 
     public static WebDriver getDriver() {
         if (driver == null) {
-
         	String projectPath = System.getProperty("user.dir");
         	System.out.println("Project path :" +projectPath);
         	System.getProperty("webdriver.chrome.driver", projectPath + "/src/test/resources/drivers/chromedriver.exe");
