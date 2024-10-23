@@ -1,0 +1,66 @@
+version: 2.1
+
+executors:
+  ubuntu-executor:
+    docker:
+      - image: cimg/base:2024.09
+    working_directory: ~/repo
+
+jobs:
+  build:
+    executor: ubuntu-executor
+    steps:
+      - checkout
+      
+      # Install dependencies
+      - run:
+          name: Install Java, Maven, and other dependencies
+          command: |
+            sudo apt-get update
+            sudo apt-get install -y openjdk-21-jdk maven wget unzip xvfb google-chrome-stable
+
+      # Download and set up ChromeDriver
+      - run:
+          name: Install ChromeDriver
+          command: |
+            CHROME_VERSION=$(google-chrome --version | awk '{print $3}' | cut -d'.' -f1)
+            wget -N https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION -O chromedriver.zip
+            unzip chromedriver.zip -d /usr/local/bin/
+            rm chromedriver.zip
+            sudo chmod +x /usr/local/bin/chromedriver
+            chromedriver --version
+
+      # Cache dependencies to speed up build time
+      - restore_cache:
+          keys:
+            - v1-dependencies-{{ checksum "pom.xml" }}
+            - v1-dependencies-
+
+      # Run tests
+      - run:
+          name: Run Maven Tests
+          command: |
+            Xvfb :0 -ac &
+            export DISPLAY=:99
+            mvn clean test
+
+      # Save the maven cache
+      - save_cache:
+          paths:
+            - ~/.m2
+          key: v1-dependencies-{{ checksum "pom.xml" }}
+
+      # Archive Extent Reports
+      - store_artifacts:
+          path: Report/ExtenthtmlReport.html
+          destination: ExtenthtmlReport.html
+
+      # Archive Test Results (for CircleCI Test Insights)
+      - store_test_results:
+          path: Report/
+
+workflows:
+  version: 2
+  test:
+    jobs:
+      - build

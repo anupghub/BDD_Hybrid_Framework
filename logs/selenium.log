@@ -1,0 +1,480 @@
+2024-09-27 19:47:28 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-09-27 19:47:28 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-09-27 19:47:28 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-09-27 19:47:28 INFO  LoginPage:31 - Entering User Password : secret_sauce1
+2024-09-27 19:47:28 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-21 13:39:29 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-21 13:39:29 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-21 13:39:29 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-21 13:39:35 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-21 13:39:35 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-21 13:39:35 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-21 13:39:35 INFO  LoginPage:31 - Entering User Password : secret_sauce1
+2024-10-21 13:39:36 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-21 16:21:06 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-21 16:21:06 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-21 16:21:06 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-21 16:21:11 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-21 16:21:11 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-21 16:21:11 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-21 16:21:11 INFO  LoginPage:31 - Entering User Password : secret_sauce1
+2024-10-21 16:21:11 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-22 10:44:43 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 10:44:43 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-22 10:44:43 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-22 10:44:46 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 10:44:46 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-22 10:44:46 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 10:44:46 INFO  LoginPage:31 - Entering User Password : secret_sauce1
+2024-10-22 10:44:46 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-22 17:02:15 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 17:02:15 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-22 17:02:15 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-22 17:02:15 INFO  ProductPage:78 - Filter Option is present
+2024-10-22 17:02:16 INFO  ProductSteps:65 - Products are sorted in ascending order
+2024-10-22 17:02:16 INFO  ProductPage:78 - Filter Option is present
+2024-10-22 17:02:16 INFO  ProductSteps:79 - Products are sorted in descending order
+2024-10-22 17:02:20 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 17:02:20 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-22 17:02:20 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-22 17:02:20 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-22 17:02:20 INFO  ProductPage:67 - Added Product to cart
+2024-10-22 17:02:20 INFO  ProductSteps:90 - Product details captured
+2024-10-22 17:02:20 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-22 17:02:21 INFO  ProductSteps:103 - Entered basic details
+2024-10-22 17:02:21 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-22 17:02:21 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-22 17:02:24 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 17:02:24 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-22 17:02:24 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-22 17:02:24 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-22 17:02:24 INFO  ProductPage:67 - Added Product to cart
+2024-10-22 17:02:24 INFO  ProductSteps:90 - Product details captured
+2024-10-22 17:02:24 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-22 17:02:25 INFO  ProductSteps:103 - Entered basic details
+2024-10-22 17:02:25 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-22 17:02:25 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-22 17:07:39 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 17:07:39 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-22 17:07:40 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-22 17:07:40 INFO  ProductPage:78 - Filter Option is present
+2024-10-22 17:07:40 INFO  ProductSteps:65 - Products are sorted in ascending order
+2024-10-22 17:07:40 INFO  ProductPage:78 - Filter Option is present
+2024-10-22 17:07:41 INFO  ProductSteps:79 - Products are sorted in descending order
+2024-10-22 17:07:48 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 17:07:49 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-22 17:07:49 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-22 17:07:49 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-22 17:07:49 INFO  ProductPage:67 - Added Product to cart
+2024-10-22 17:07:50 INFO  ProductSteps:90 - Product details captured
+2024-10-22 17:07:50 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-22 17:07:51 INFO  ProductSteps:103 - Entered basic details
+2024-10-22 17:07:51 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-22 17:07:51 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-22 17:07:54 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 17:07:54 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-22 17:07:54 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-22 17:07:54 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-22 17:07:54 INFO  ProductPage:67 - Added Product to cart
+2024-10-22 17:07:54 INFO  ProductSteps:90 - Product details captured
+2024-10-22 17:07:55 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-22 17:07:55 INFO  ProductSteps:103 - Entered basic details
+2024-10-22 17:07:56 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-22 17:07:56 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-22 17:09:47 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 17:09:47 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-22 17:09:48 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-22 17:09:53 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 17:09:53 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-22 17:09:53 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 17:09:53 INFO  LoginPage:31 - Entering User Password : secret_sauce1
+2024-10-22 17:09:53 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-22 17:09:55 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 17:09:55 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-22 17:09:56 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-22 17:09:56 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-22 17:09:56 INFO  ProductPage:67 - Added Product to cart
+2024-10-22 17:10:03 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 17:10:04 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-22 17:10:04 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-22 17:10:04 INFO  ProductPage:78 - Filter Option is present
+2024-10-22 17:10:04 INFO  ProductSteps:65 - Products are sorted in ascending order
+2024-10-22 17:10:04 INFO  ProductPage:78 - Filter Option is present
+2024-10-22 17:10:04 INFO  ProductSteps:79 - Products are sorted in descending order
+2024-10-22 17:10:08 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 17:10:08 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-22 17:10:08 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-22 17:10:08 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-22 17:10:08 INFO  ProductPage:67 - Added Product to cart
+2024-10-22 17:10:08 INFO  ProductSteps:90 - Product details captured
+2024-10-22 17:10:08 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-22 17:10:09 INFO  ProductSteps:103 - Entered basic details
+2024-10-22 17:10:09 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-22 17:10:09 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-22 17:10:12 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 17:10:12 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-22 17:10:12 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-22 17:10:12 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-22 17:10:12 INFO  ProductPage:67 - Added Product to cart
+2024-10-22 17:10:12 INFO  ProductSteps:90 - Product details captured
+2024-10-22 17:10:12 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-22 17:10:13 INFO  ProductSteps:103 - Entered basic details
+2024-10-22 17:10:13 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-22 17:10:13 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-22 17:10:17 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 17:10:17 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-22 17:10:18 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-22 17:10:25 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 17:10:26 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-22 17:10:26 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-22 17:10:34 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-22 17:10:34 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-22 17:10:34 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 10:45:03 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 10:45:03 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 10:45:03 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 10:45:03 INFO  ProductPage:78 - Filter Option is present
+2024-10-23 10:45:03 INFO  ProductSteps:65 - Products are sorted in ascending order
+2024-10-23 10:45:03 INFO  ProductPage:78 - Filter Option is present
+2024-10-23 10:45:03 INFO  ProductSteps:79 - Products are sorted in descending order
+2024-10-23 10:45:06 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 10:45:06 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 10:45:06 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 10:45:06 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-23 10:45:06 INFO  ProductPage:67 - Added Product to cart
+2024-10-23 10:45:06 INFO  ProductSteps:90 - Product details captured
+2024-10-23 10:45:06 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 10:45:06 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 10:45:06 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 10:45:07 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 10:45:09 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 10:45:09 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 10:45:09 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 10:45:09 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-23 10:45:09 INFO  ProductPage:67 - Added Product to cart
+2024-10-23 10:45:09 INFO  ProductSteps:90 - Product details captured
+2024-10-23 10:45:09 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 10:45:09 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 10:45:10 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 10:45:10 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 10:53:33 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 10:53:33 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 10:53:33 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 10:53:33 INFO  ProductPage:78 - Filter Option is present
+2024-10-23 10:53:33 INFO  ProductSteps:65 - Products are sorted in ascending order
+2024-10-23 10:53:33 INFO  ProductPage:78 - Filter Option is present
+2024-10-23 10:53:33 INFO  ProductSteps:79 - Products are sorted in descending order
+2024-10-23 10:53:36 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 10:53:36 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 10:53:36 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 10:53:36 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-23 10:53:36 INFO  ProductPage:67 - Added Product to cart
+2024-10-23 10:53:36 INFO  ProductSteps:90 - Product details captured
+2024-10-23 10:53:36 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 10:53:36 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 10:53:36 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 10:53:37 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 10:53:39 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 10:53:39 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 10:53:39 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 10:53:39 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-23 10:53:39 INFO  ProductPage:67 - Added Product to cart
+2024-10-23 10:53:39 INFO  ProductSteps:90 - Product details captured
+2024-10-23 10:53:39 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 10:53:40 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 10:53:40 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 10:53:40 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 11:56:12 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 11:56:12 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 11:56:12 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 11:56:16 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 11:56:16 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 11:56:16 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 11:56:16 INFO  ProductPage:78 - Filter Option is present
+2024-10-23 11:56:16 INFO  ProductSteps:65 - Products are sorted in ascending order
+2024-10-23 11:56:16 INFO  ProductPage:78 - Filter Option is present
+2024-10-23 11:56:16 INFO  ProductSteps:79 - Products are sorted in descending order
+2024-10-23 11:56:20 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 11:56:20 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 11:56:21 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 11:56:21 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-23 11:56:21 INFO  ProductPage:67 - Added Product to cart
+2024-10-23 11:56:21 INFO  ProductSteps:90 - Product details captured
+2024-10-23 11:56:21 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 11:56:21 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 11:56:21 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 11:56:21 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 11:56:23 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 11:56:23 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 11:56:23 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 11:56:24 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-23 11:56:24 INFO  ProductPage:67 - Added Product to cart
+2024-10-23 11:56:24 INFO  ProductSteps:90 - Product details captured
+2024-10-23 11:56:24 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 11:56:24 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 11:56:24 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 11:56:24 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 11:58:25 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 11:58:25 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 11:58:25 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 11:58:25 INFO  LoginPage:31 - Entering User Password : secret_sauce1
+2024-10-23 11:58:25 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 11:58:30 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 11:58:31 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 11:58:31 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 11:58:31 INFO  ProductPage:78 - Filter Option is present
+2024-10-23 11:58:31 INFO  ProductSteps:65 - Products are sorted in ascending order
+2024-10-23 11:58:31 INFO  ProductPage:78 - Filter Option is present
+2024-10-23 11:58:31 INFO  ProductSteps:79 - Products are sorted in descending order
+2024-10-23 11:58:33 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 11:58:33 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 11:58:33 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 11:58:33 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-23 11:58:33 INFO  ProductPage:67 - Added Product to cart
+2024-10-23 11:58:33 INFO  ProductSteps:90 - Product details captured
+2024-10-23 11:58:34 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 11:58:34 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 11:58:34 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 11:58:34 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 11:58:38 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 11:58:38 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 11:58:38 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 11:58:38 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-23 11:58:38 INFO  ProductPage:67 - Added Product to cart
+2024-10-23 11:58:38 INFO  ProductSteps:90 - Product details captured
+2024-10-23 11:58:38 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 11:58:39 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 11:58:39 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 11:58:39 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 12:01:10 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 12:01:10 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 12:01:10 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 12:01:13 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 12:01:13 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 12:01:13 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 12:01:13 INFO  LoginPage:31 - Entering User Password : secret_sauce1
+2024-10-23 12:01:13 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 12:01:15 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 12:01:15 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 12:01:15 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 12:01:15 INFO  ProductPage:78 - Filter Option is present
+2024-10-23 12:01:16 INFO  ProductSteps:65 - Products are sorted in ascending order
+2024-10-23 12:01:16 INFO  ProductPage:78 - Filter Option is present
+2024-10-23 12:01:16 INFO  ProductSteps:79 - Products are sorted in descending order
+2024-10-23 12:01:20 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 12:01:20 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 12:01:20 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 12:01:20 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-23 12:01:20 INFO  ProductPage:67 - Added Product to cart
+2024-10-23 12:01:20 INFO  ProductSteps:90 - Product details captured
+2024-10-23 12:01:20 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 12:01:20 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 12:01:20 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 12:01:21 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 12:01:26 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 12:01:26 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 12:01:26 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 12:01:26 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-23 12:01:26 INFO  ProductPage:67 - Added Product to cart
+2024-10-23 12:01:26 INFO  ProductSteps:90 - Product details captured
+2024-10-23 12:01:26 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 12:01:26 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 12:01:27 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 12:01:27 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 12:03:31 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 12:03:31 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 12:03:31 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 12:03:35 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 12:03:35 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 12:03:36 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 12:03:36 INFO  LoginPage:31 - Entering User Password : secret_sauce1
+2024-10-23 12:03:36 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 12:03:40 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 12:03:40 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 12:03:40 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 12:03:40 INFO  ProductPage:78 - Filter Option is present
+2024-10-23 12:03:40 INFO  ProductSteps:65 - Products are sorted in ascending order
+2024-10-23 12:03:40 INFO  ProductPage:78 - Filter Option is present
+2024-10-23 12:03:40 INFO  ProductSteps:79 - Products are sorted in descending order
+2024-10-23 12:03:46 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 12:03:46 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 12:03:47 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 12:03:47 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-23 12:03:47 INFO  ProductPage:67 - Added Product to cart
+2024-10-23 12:03:47 INFO  ProductSteps:90 - Product details captured
+2024-10-23 12:03:47 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 12:03:47 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 12:03:47 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 12:03:47 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 12:03:49 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 12:03:50 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 12:03:50 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 12:03:50 INFO  ProductPage:56 - Product Actual name and fetched names are same
+2024-10-23 12:03:50 INFO  ProductPage:67 - Added Product to cart
+2024-10-23 12:03:50 INFO  ProductSteps:90 - Product details captured
+2024-10-23 12:03:50 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 12:03:50 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 12:03:50 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 12:03:50 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 12:03:52 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 12:03:52 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 12:03:53 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 12:04:02 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 12:04:02 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 12:04:03 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 12:04:10 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 12:04:10 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 12:04:10 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 15:48:07 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 15:48:07 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 15:48:08 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 15:48:14 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 15:48:15 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 15:48:15 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 15:48:15 INFO  LoginPage:31 - Entering User Password : secret_sauce1
+2024-10-23 15:48:15 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 15:48:20 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 15:48:20 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 15:48:20 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 15:48:21 INFO  ProductPage:80 - Filter Option is present
+2024-10-23 15:48:21 INFO  ProductSteps:65 - Products are sorted in ascending order
+2024-10-23 15:48:21 INFO  ProductPage:80 - Filter Option is present
+2024-10-23 15:48:21 INFO  ProductSteps:79 - Products are sorted in descending order
+2024-10-23 15:48:26 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 15:48:27 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 15:48:27 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 15:48:27 INFO  ProductPage:58 - Product Actual name and fetched names are same
+2024-10-23 15:48:27 INFO  ProductPage:69 - Added Product to cart
+2024-10-23 15:48:27 INFO  ProductSteps:90 - Product details captured
+2024-10-23 15:48:27 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 15:48:28 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 15:48:28 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 15:48:28 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 15:48:31 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 15:48:31 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 15:48:31 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 15:48:31 INFO  ProductPage:58 - Product Actual name and fetched names are same
+2024-10-23 15:48:32 INFO  ProductPage:69 - Added Product to cart
+2024-10-23 15:48:32 INFO  ProductSteps:90 - Product details captured
+2024-10-23 15:48:32 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 15:48:32 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 15:48:32 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 15:48:32 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 15:57:40 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 15:57:40 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 15:57:40 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 15:57:44 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 15:57:44 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 15:57:45 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 15:57:45 INFO  LoginPage:31 - Entering User Password : secret_sauce1
+2024-10-23 15:57:45 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 15:57:56 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 15:57:56 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 16:01:01 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 16:01:01 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 16:01:01 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 16:01:07 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 16:01:07 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 16:01:07 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 16:01:07 INFO  LoginPage:31 - Entering User Password : secret_sauce1
+2024-10-23 16:01:07 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 16:01:11 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 16:01:11 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 16:01:11 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 16:01:11 INFO  ProductPage:80 - Filter Option is present
+2024-10-23 16:01:11 INFO  ProductSteps:65 - Products are sorted in ascending order
+2024-10-23 16:01:11 INFO  ProductPage:80 - Filter Option is present
+2024-10-23 16:01:12 INFO  ProductSteps:79 - Products are sorted in descending order
+2024-10-23 16:01:17 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 16:01:17 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 16:01:17 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 16:01:17 INFO  ProductPage:58 - Product Actual name and fetched names are same
+2024-10-23 16:01:17 INFO  ProductPage:69 - Added Product to cart
+2024-10-23 16:01:17 INFO  ProductSteps:90 - Product details captured
+2024-10-23 16:01:17 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 16:01:18 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 16:01:18 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 16:01:18 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 16:01:23 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 16:01:23 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 16:01:23 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 16:01:23 INFO  ProductPage:58 - Product Actual name and fetched names are same
+2024-10-23 16:01:23 INFO  ProductPage:69 - Added Product to cart
+2024-10-23 16:01:24 INFO  ProductSteps:90 - Product details captured
+2024-10-23 16:01:24 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 16:01:24 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 16:01:24 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 16:01:25 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 17:21:38 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 17:21:38 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 17:21:38 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 17:21:41 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 17:21:42 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 17:21:42 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 17:21:42 INFO  LoginPage:31 - Entering User Password : secret_sauce1
+2024-10-23 17:21:42 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 17:21:45 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 17:21:45 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 17:21:45 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 17:21:45 INFO  ProductPage:81 - Filter Option is present
+2024-10-23 17:21:46 INFO  ProductSteps:65 - Products are sorted in ascending order
+2024-10-23 17:21:46 INFO  ProductPage:81 - Filter Option is present
+2024-10-23 17:21:46 INFO  ProductSteps:79 - Products are sorted in descending order
+2024-10-23 17:21:52 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 17:21:52 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 17:21:52 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 17:21:52 INFO  ProductPage:59 - Product Actual name and fetched names are same
+2024-10-23 17:21:52 INFO  ProductPage:70 - Added Product to cart
+2024-10-23 17:21:53 INFO  ProductSteps:90 - Product details captured
+2024-10-23 17:21:53 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 17:21:53 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 17:21:53 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 17:21:53 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 17:21:58 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 17:21:58 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 17:21:58 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 17:21:59 INFO  ProductPage:59 - Product Actual name and fetched names are same
+2024-10-23 17:21:59 INFO  ProductPage:70 - Added Product to cart
+2024-10-23 17:21:59 INFO  ProductSteps:90 - Product details captured
+2024-10-23 17:21:59 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 17:21:59 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 17:22:00 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 17:22:00 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 17:38:11 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 17:38:11 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 17:38:12 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 17:38:20 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 17:38:20 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 17:38:21 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 17:38:21 INFO  LoginPage:31 - Entering User Password : secret_sauce1
+2024-10-23 17:38:21 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 17:38:26 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 17:38:26 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 17:38:26 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 17:38:26 INFO  ProductPage:81 - Filter Option is present
+2024-10-23 17:38:26 INFO  ProductSteps:65 - Products are sorted in ascending order
+2024-10-23 17:38:26 INFO  ProductPage:81 - Filter Option is present
+2024-10-23 17:38:27 INFO  ProductSteps:79 - Products are sorted in descending order
+2024-10-23 17:38:32 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 17:38:32 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 17:38:32 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 17:38:32 INFO  ProductPage:59 - Product Actual name and fetched names are same
+2024-10-23 17:38:32 INFO  ProductPage:70 - Added Product to cart
+2024-10-23 17:38:33 INFO  ProductSteps:90 - Product details captured
+2024-10-23 17:38:33 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 17:38:33 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 17:38:34 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 17:38:34 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 17:38:40 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 17:38:40 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 17:38:40 INFO  LoginPage:36 - Clicked on Login Button
+2024-10-23 17:38:40 INFO  ProductPage:59 - Product Actual name and fetched names are same
+2024-10-23 17:38:40 INFO  ProductPage:70 - Added Product to cart
+2024-10-23 17:38:41 INFO  ProductSteps:90 - Product details captured
+2024-10-23 17:38:41 INFO  ProductSteps:96 - Clicked on checkout button
+2024-10-23 17:38:41 INFO  ProductSteps:103 - Entered basic details
+2024-10-23 17:38:41 INFO  ProductSteps:121 - Product details verified in checkout page
+2024-10-23 17:38:41 INFO  ProductSteps:134 - Order confirmation page displayed
+2024-10-23 18:10:20 INFO  LoginPage:26 - Entering User Name : standard_user
+2024-10-23 18:10:21 INFO  LoginPage:31 - Entering User Password : secret_sauce
+2024-10-23 18:10:21 INFO  LoginPage:36 - Clicked on Login Button
